@@ -1,7 +1,5 @@
 # BBT4206: Business Intelligence II Organization
 
-| **Attribute**         | Value                                                        |
-|-------------------------|-----------------------------------------------|
 | **Course Code**       | BBT4206                                                      |
 | **Course Name**       | Business Intelligence II                                     |
 | **URL**               | [https://elearning.strathmore.edu/course/view.php?id=6599](https://elearning.strathmore.edu/course/view.php?id=6599) |
