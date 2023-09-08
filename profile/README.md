@@ -17,7 +17,7 @@ Part of the course is based on the following 9 steps of **Knowledge Discovery in
 
 This involves an understanding of the problem, the requirements of the end-user for the solution to the problem, and the environment in which the KDD process will occur.
 
--   [*BI Project: Section 1, 3, and 14*](https://docs.google.com/document/d/1Ay1VaAjd9JzQJ5JnkPHZLvtDRNAWrc5RYCPo1bvxgBU/edit?usp=sharing)
+-   *BI Project: Section 1, 3, and 14*
 
 ## Step 2: Data Selection
 
@@ -45,7 +45,7 @@ This involves finding useful features that represent the data according to the g
 
 This involves deciding whether to use data mining to either predict classifications, regressions, associations, or clusters. The decision is based on the goal of the KDD process. Step 5-7 can be performed by a Machine Learning engineer and/or a data analyst.
 
--   [*BI Project Section 3*](https://docs.google.com/document/d/1Ay1VaAjd9JzQJ5JnkPHZLvtDRNAWrc5RYCPo1bvxgBU/edit?usp=sharing)
+-   *BI Project Section 3*
 
 ## Step 6: Selection of the Data Mining Algorithm
 
@@ -77,7 +77,7 @@ The knowledge represented in the form of patterns and rules is then **validated 
 
 This involves operationalizing the knowledge discovered by integrating it into an Information System (e.g., a data visualization dashboard). This step is exposed to the challenge of losing the "laboratory environment" in which the model was trained. This laboratory environment handled pre-processed, static data whereas the actual environment is based on dynamic data that can contain outliers and noise. Despite this significant challenge, the accomplishment of this step determines the effectiveness of the entire KDD process.
 
--   [*BI Project Section 15 and Section 16*](https://docs.google.com/document/d/1Ay1VaAjd9JzQJ5JnkPHZLvtDRNAWrc5RYCPo1bvxgBU/edit?usp=sharing)
+-   *BI Project Section 15 and Section 16*
 
 -   *Lab12-Plumber-API.R*
 
