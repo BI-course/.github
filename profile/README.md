@@ -1,4 +1,4 @@
-# BBT4206
+# BBT4206: Business Intelligence II Organization
 
 | **Attribute**         | Value                                                        |
 |-------------------------|-----------------------------------------------|
