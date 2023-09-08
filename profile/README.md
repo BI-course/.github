@@ -1,9 +1,10 @@
-# BBT4206: [https://elearning.strathmore.edu/course/view.php?id=6599](https://elearning.strathmore.edu/course/view.php?id=6599)
+# BBT4206
 
 | **Attribute**         | Value                                                        |
 |-------------------------|-----------------------------------------------|
 | **Course Code**       | BBT4206                                                      |
 | **Course Name**       | Business Intelligence II                                     |
+| **URL**               | [https://elearning.strathmore.edu/course/view.php?id=6599](https://elearning.strathmore.edu/course/view.php?id=6599) |
 | **Semester Duration** | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023 |
 | **Lecturer**          | Allan Omondi                                                 |
 | **Contact**           | aomondi [at] strathmore.edu                                  |
