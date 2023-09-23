@@ -31,7 +31,11 @@ This involves describing data to better understand it. Through this understandin
 
 -   *Lab1-LoadingDatasets.R*
 
--   *Lab2-ExploratoryDataAnalysis.R*
+-   *Lab2a-ExploratoryDataAnalysisForQuantitativeData.R*
+
+-   *Lab2b-ExploratoryDataAnalysisForQualitativeData.R*
+
+-   *Lab2c-SentimentAnalysis.R*
 
 -   *Lab3-DataImputation.R*
 
