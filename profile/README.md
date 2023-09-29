@@ -1,6 +1,6 @@
 # BBT4206: Business Intelligence II Organization
 
-| **Attribute**         | Value                                                        |
+| **Key**         | Value                                                        |
 |-------------------------|-----------------------------------------------|
 | **Course Code**       | BBT4206                                                      |
 | **Course Name**       | Business Intelligence II                                     |
