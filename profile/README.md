@@ -1,16 +1,32 @@
-# BBT4206: Business Intelligence II Organization
+# GitHub Organization for the BBT4106 and BBT4206 Business Intelligence I and II Courses
 
-| **Key**         | Value                                                        |
-|-------------------------|-----------------------------------------------|
-| **Course Code**       | BBT4206                                                      |
-| **Course Name**       | Business Intelligence II                                     |
-| **URL**               | [https://elearning.strathmore.edu/course/view.php?id=6599](https://elearning.strathmore.edu/course/view.php?id=6599) |
-| **Semester Duration** | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023 |
-| **Lecturer**          | Allan Omondi                                                 |
-| **Contact**           | aomondi_at_strathmore_dot_edu                                  |
+A GitHub organization used to facilitate and manage collaboration amongst students taking the BBT4106 and BBT4206 Business Intelligence I and II courses respectively.
 
+| **Key**                                                               | Value                                                                                                                                                                              |
+|---------------|---------------------------------------------------------|
+| **Course Code**                                                       | BBT4106 and BBT4206                                                                                                                                                                            |
+| **Course Name**                                                       | Business Intelligence I and II respectively                                                                                                                                                           |
+| **URL**                                                               | <https://elearning.strathmore.edu/course/view.php?id=6462> and <https://elearning.strathmore.edu/course/view.php?id=6599> respectively                                                                                                                         |
+| **Current Semester Duration**                                                 | _Not currently on offer_                                                                                                                       |
+| **Lecturer**                                                          | Allan Omondi                                                                                                                                                                       |
+| **Contact**                                                           | aomondi@strathmore.edu                                                                                                                                                      |
 
+## Past Semesters
 
+* BBT4206: 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023
+* BBT4106: 12<sup>th</sup> April 2023 to 19<sup>th</sup> July 2023
+
+<hr>
+
+* BBT4206 (Exempt): 12<sup>th</sup> April 2023 to 19<sup>th</sup> July 2023
+* BBT4106 (Exempt): 28<sup>th</sup> November 2022 to 30<sup>th</sup> March 2023
+
+<hr>
+
+* BBT4206 (Evening): 23<sup>rd</sup> January 2023 to 13<sup>th</sup> April 2023
+* BBT4106 (Evening): 20<sup>th</sup> September 2022 to 20<sup>th</sup> December 2022
+
+## Labs
 Part of the course is based on the following 9 steps of **Knowledge Discovery in Databases (KDD)**:
 
 ## Step 1: Problem Definition and Goal Setting
